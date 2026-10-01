@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <b>EN:</b> Offline-first desktop, local RAG & automation — reliability over hype.<br>
-  <b>RU:</b> Офлайн-first десктоп, локальный RAG и автоматизация — надёжность вместо хайпа.
+  Offline-first desktop, local RAG & automation.<br>
+  Офлайн-first десктоп, локальный RAG и автоматизация.
 </p>
 
 <p align="center">
