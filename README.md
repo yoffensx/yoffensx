@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  🔭 <code>chronosmanager</code> · 🧠 <code>metis-notes</code> · 🛡️ <code>aegis-platform</code>
+  🔭 <code>chronosmanager</code> · 🧠 <code>logos-repos</code> · 🛡️ <code>aegis-platform</code>
 </p>
 
 <p align="center">
