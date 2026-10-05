@@ -11,10 +11,6 @@
   Офлайн-first десктоп, локальный RAG и автоматизация.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yoffensx&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/yoffensx?style=flat&logo=github" />
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,rust,python,react,tauri,tailwind,postgres,sqlite,docker,git&theme=dark" /></a>
